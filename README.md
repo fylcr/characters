@@ -1,2 +1,2 @@
-# models
-个人建模的资源库
+# characters
+个人创建形象的资源库
